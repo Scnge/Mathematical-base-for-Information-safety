@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+E:\Files\Visual Studio\8.1\FileName.cpp(156,27): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+E:\Files\Visual Studio\8.1\FileName.cpp(178): warning C4715: “Output”: 不是所有的控件路径都返回值
+  8.1.vcxproj -> E:\Files\Visual Studio\8.1\x64\Debug\8.1.exe
